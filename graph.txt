@@ -1,0 +1,23 @@
+* 19de0d5 Agregando 2 parrafos
+*   29c178d Resolviendo conflicto en estaciones del año con fecha de inicio
+|\  
+| * 7f266ed Agregando las estaciones del año
+* | 46e74d3 Agregando las estaciones del año *con fecha de inicio
+|/  
+*   8aad595 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 0684e60 Agregando code.js al index.html
+* | a284789 Agregando style.css al index.html
+* |   151f298 Merge branch 'js'
+|\ \  
+| * | ab44dde Creando code.js
+* | | 4ac972c creando style.css
+| |/  
+|/|   
+* | de141d9 Creando index.html
+|/  
+* c60af1c Ignorando archivos .exe
+* 98fdfbd Creando licencia de repositorio
+* 201d1e2 Agregué un parrafo al README
+* 99cb4e0 Ahora si el commit de README.md
+* 0ff4a8e 1er commit y agregando contenido al README.md

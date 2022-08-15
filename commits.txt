@@ -1,0 +1,98 @@
+commit 19de0d50e9350ec8cfa642681097306162d3ef2f
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Mon Aug 15 11:58:42 2022 -0500
+
+    Agregando 2 parrafos
+
+commit 29c178dadeb2fef075f6fd7f199fd949968a7e6b
+Merge: 46e74d3 7f266ed
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Mon Aug 15 11:49:39 2022 -0500
+
+    Resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit 46e74d32269f367c60381715ce9bf8c252521f5c
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Mon Aug 15 11:10:36 2022 -0500
+
+    Agregando las estaciones del año *con fecha de inicio
+
+commit 7f266ed9b6562b4962024bca3b24efc05606c428
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Mon Aug 15 11:10:36 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 8aad5950f747dfd11619f16e7703a233c71becee
+Merge: a284789 0684e60
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Mon Aug 15 00:18:34 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 0684e60d759442fccd2d45659df411b47d606535
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sun Aug 14 23:46:48 2022 -0500
+
+    Agregando code.js al index.html
+
+commit a2847892413d3abaf5304b158bac0bbfb0e07e07
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sun Aug 14 23:35:24 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 151f298a72e38dfb303f95aed7d51517e2d42ade
+Merge: 4ac972c ab44dde
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sun Aug 14 23:03:18 2022 -0500
+
+    Merge branch 'js'
+
+commit ab44dde934e528b8c4de370f3d7cb163a4f835ab
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sun Aug 14 22:51:44 2022 -0500
+
+    Creando code.js
+
+commit 4ac972c05e8bdd454c654d2812bb0cf47251e5ce
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sun Aug 14 22:16:44 2022 -0500
+
+    creando style.css
+
+commit de141d90b35181bb89f91663011f758e04c7dc64
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sun Aug 14 21:22:26 2022 -0500
+
+    Creando index.html
+
+commit c60af1c90b18b1a69b22a1893e71a7a9cc087fb1
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sun Aug 14 21:18:59 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 98fdfbd85536abaea4442dff761935432fb38519
+Author: YiosTech <109556012+YiosTech@users.noreply.github.com>
+Date:   Sun Aug 14 00:06:26 2022 -0500
+
+    Creando licencia de repositorio
+
+commit 201d1e219ec38338b5154abcab1e39636d70ef7b
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sat Aug 13 23:21:24 2022 -0500
+
+    Agregué un parrafo al README
+
+commit 99cb4e065bf51a9a47224d1046e3006140a790fb
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sat Aug 13 21:29:07 2022 -0500
+
+    Ahora si el commit de README.md
+
+commit 0ff4a8e583798145fffd15882c87b7b8593f1c73
+Author: Yios Santiago <yovana_xo23@outlook.com>
+Date:   Sat Aug 13 21:27:46 2022 -0500
+
+    1er commit y agregando contenido al README.md
