@@ -1,4 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@300;400&family=Montserrat&display=swap");
+
 html{
     background-color: #000;
     color: #fff;
+    padding: 1rem;
+}
+
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+
+a{
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover{
+    color: orangered;
+}
+
+/* ya es responsivo */
+img{
+    max-width: 100%;
 }
